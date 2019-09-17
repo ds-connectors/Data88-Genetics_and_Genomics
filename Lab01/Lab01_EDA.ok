@@ -2,7 +2,7 @@
   "name": "Lab 1: EDA",
   "endpoint": "cal/data88-2/fa19/lab01",
   "src": [
-    "Lab1_EDA.ipynb"
+    "Lab_1_EDA.ipynb"
    ],
    "tests": {
        "tests/q*.py": "ok_test"
