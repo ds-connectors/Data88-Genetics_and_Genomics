@@ -1,15 +1,16 @@
 {
-  "name": "Lab01_EDA",                    # change this line
-  "endpoint": "cal/data88-2/fa19/lab01",       # change this line with OK info for your course
+  "name": "Lab 1: EDA",
+  "endpoint": "cal/data88-2/fa19/lab01",
   "src": [
-    "Lab_1_EDA_solved.ipynb"                           # change this line, this is the file to be submitted
-  ],
-  "tests": {
-      "tests/q*.py": "ok_test"
-  },
-  "protocols": [
-      "file_contents",
-      "grading",
-      "backup"
-  ]
+    "Lab1_EDA.ipynb"
+   ],
+   "tests": {
+       "tests/q*.py": "ok_test"
+   },
+   "protocols": [
+       "file_contents",
+       "grading",
+       "backup"
+ ]
 }
+  
