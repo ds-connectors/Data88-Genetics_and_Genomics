@@ -2,7 +2,7 @@
   "name": "Lab 2: Data cleaning and pre-processing",
   "endpoint": "cal/data88-2/fa19/lab02",
   "src": [
-    "Lab_2_cleaning.ipynb"
+    "Lab2_cleaning.ipynb"
    ],
    "tests": {
        "tests/q*.py": "ok_test"
