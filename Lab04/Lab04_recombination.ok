@@ -1,0 +1,15 @@
+{
+  "name": "Lab 4: Recombination",
+  "endpoint": "cal/data88-2/fa19/lab04",
+  "src": [
+    "Lab4_Recombination.ipynb"
+   ],
+   "tests": {
+       "tests/q*.py": "ok_test"
+   },
+   "protocols": [
+       "file_contents",
+       "grading",
+       "backup"
+ ]
+}
