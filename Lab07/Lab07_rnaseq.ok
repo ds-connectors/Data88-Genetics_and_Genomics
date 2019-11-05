@@ -1,0 +1,15 @@
+{
+  "name": "Lab 7: RNA-seq",
+  "endpoint": "cal/data88-2/fa19/lab07",
+  "src": [
+    "Lab_7_RNA-seq.ipynb"
+   ],
+   "tests": {
+       "tests/q*.py": "ok_test"
+   },
+   "protocols": [
+       "file_contents",
+       "grading",
+       "backup"
+ ]
+}
