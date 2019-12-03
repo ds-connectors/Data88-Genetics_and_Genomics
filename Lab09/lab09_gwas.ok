@@ -1,5 +1,5 @@
 {
-  "name": "Lab 9: GWAS",
+  "name": "Lab 9: Association",
   "endpoint": "cal/data88-2/fa19/lab09",
   "src": [
     "Lab_9_Association.ipynb"
