@@ -2,7 +2,7 @@
   "name": "Lab 9: GWAS",
   "endpoint": "cal/data88-2/fa19/lab09",
   "src": [
-    "Lab_9_GWAS.ipynb"
+    "Lab_9_Association.ipynb"
    ],
    "tests": {
        "tests/q*.py": "ok_test"
