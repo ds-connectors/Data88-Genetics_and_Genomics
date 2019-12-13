@@ -1,1429 +1,601 @@
 cell,cell_ontology_class,tissue
-A1.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-A1.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-A1.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A1.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A1.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A1.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A1.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A10.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A10.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A11.B000404.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-A11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A11.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A11.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A11.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-A11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A11.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A11.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A12.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A12.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A13.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A13.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-A13.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A13.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A13.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-A14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A14.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A14.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A14.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A14.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A15.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A15.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A15.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A15.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A15.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A16.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A16.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A16.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A16.MAA000941.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A16.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-A16.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-A17.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-A17.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A17.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A17.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A18.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A18.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A18.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A18.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A19.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A19.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A19.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A2.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A2.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A20.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A20.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-A20.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A20.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A20.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-A21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A21.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A21.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A21.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A21.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A21.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A21.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-A22.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A22.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A22.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A22.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A3.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A4.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A4.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
-A4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A4.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-A4.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-A4.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A5.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A5.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A5.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-A5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A5.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A5.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A6.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A6.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A6.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A6.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A6.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A7.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A7.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A7.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-A7.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A7.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-A8.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A8.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A9.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A9.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-A9.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-A9.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-A9.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-A9.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-A9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-A9.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B1.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B1.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-B1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B1.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-B1.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B1.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B10.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B10.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B10.MAA001854.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-B11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B11.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B11.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B11.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B11.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B11.MAA000941.3_8_M.1.1,neuron,Brain_Non-Myeloid
-B11.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B11.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B12.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B12.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B12.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B12.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-B12.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-B12.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-B13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B13.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-B14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B14.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B14.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B15.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-B15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B15.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B16.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-B16.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B17.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B17.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B18.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-B18.MAA000925.3_9_M.1.1,neuron,Brain_Non-Myeloid
-B18.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-B19.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B19.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-B19.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B19.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B2.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-B2.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B2.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B2.MAA001854.3_38_F.1.1,neuron,Brain_Non-Myeloid
-B2.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B20.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B20.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B20.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B20.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B20.MAA000925.3_9_M.1.1,neuron,Brain_Non-Myeloid
-B20.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-B20.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B20.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B21.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-B21.MAA000560.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B21.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-B21.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B21.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B22.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B22.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-B22.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-B22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B22.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B22.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B22.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-B3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B3.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-B3.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B4.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B4.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B4.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B4.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B4.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B4.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B4.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B5.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B5.MAA000581.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B5.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B5.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B6.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B6.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-B6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B6.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B6.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B7.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-B7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B7.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B7.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B7.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-B7.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-B7.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B7.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B7.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B8.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-B8.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B8.MAA000615.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-B8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B8.MAA001854.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B8.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-B9.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-B9.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B9.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-B9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-B9.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-B9.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-B9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-C1.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-C1.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C1.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C1.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-C1.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-C10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C10.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C10.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-C11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C11.MAA000638.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C11.MAA001894.3_39_F.1.1,neuron,Brain_Non-Myeloid
-C12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C12.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C12.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-C12.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C12.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C12.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-C12.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C13.B000621.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-C13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C13.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C13.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-C13.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C13.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-C13.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-C14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C14.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-C14.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C15.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C15.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C15.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-C15.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C16.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C16.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-C16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C16.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C16.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C16.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C16.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-C17.B003275.3_38_F.1.1,neuron,Brain_Non-Myeloid
-C17.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C17.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C18.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-C18.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-C18.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C19.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-C19.MAA000553.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-C19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C19.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C2.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C2.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-C20.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-C20.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C20.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-C20.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C21.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C21.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C22.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-C22.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-C22.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-C22.MAA000902.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
-C22.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C22.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-C22.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-C3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C3.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C3.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
-C3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C3.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C3.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-C4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C4.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C4.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-C4.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C5.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-C5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C6.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C6.MAA000932.3_11_M.1.1,neuron,Brain_Non-Myeloid
-C6.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C6.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C7.B003277.3_39_F.1.1,neuron,Brain_Non-Myeloid
-C7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-C7.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-C7.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-C7.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-C8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C8.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-C9.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-C9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-C9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-C9.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D1.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-D1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-D1.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D10.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D10.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D10.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D10.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D11.B000621.3_56_F.1.1,endothelial cell,Brain_Non-Myeloid
-D11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D11.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D11.MAA000638.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-D11.MAA000902.3_11_M.1.1,neuron,Brain_Non-Myeloid
-D11.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D12.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-D12.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D12.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-D13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D13.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-D13.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-D14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D14.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D14.MAA000615.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-D14.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-D15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D15.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-D16.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-D16.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D16.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-D17.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D17.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-D17.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D17.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-D17.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D17.MAA001845.3_39_F.1.1,neuron,Brain_Non-Myeloid
-D18.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D18.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D18.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-D18.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D19.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-D19.MAA000553.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D19.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D19.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-D2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D2.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D20.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D20.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D20.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-D20.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D21.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D21.MAA000578.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D22.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D22.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-D22.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-D22.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-D3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D3.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-D3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-D3.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D3.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D3.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D4.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D4.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D4.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D4.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-D4.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D4.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D5.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D5.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-D5.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-D5.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D5.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D6.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D6.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-D6.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-D6.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-D6.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D6.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-D7.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D7.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-D7.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-D7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-D7.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D9.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-D9.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-D9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-D9.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E1.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E1.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-E1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E1.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-E1.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-E1.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E10.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E10.MAA000923.3_9_M.1.1,neuron,Brain_Non-Myeloid
-E10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E11.B000621.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-E11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E11.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E11.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-E12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E12.MAA000924.3_8_M.1.1,neuron,Brain_Non-Myeloid
-E12.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E12.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E13.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-E13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-E13.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-E13.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E14.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E14.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E14.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E15.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-E15.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-E15.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E15.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-E16.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E16.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-E16.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-E17.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E17.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-E17.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-E17.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E18.MAA000638.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-E18.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E19.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E19.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-E2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E2.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E2.MAA000902.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
-E2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E20.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E20.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E20.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-E21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-E21.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-E21.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-E22.B000621.3_56_F.1.1,endothelial cell,Brain_Non-Myeloid
-E3.MAA000538.3_8_M.1.1,neuron,Brain_Non-Myeloid
-E3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-E3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E3.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-E3.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-E4.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-E4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E4.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-E4.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E4.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-E4.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-E4.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E5.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-E5.MAA000924.3_8_M.1.1,neuron,Brain_Non-Myeloid
-E5.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-E6.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E6.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-E6.MAA000902.3_11_M.1.1,neuron,Brain_Non-Myeloid
-E6.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-E6.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E7.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-E8.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-E8.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-E9.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-E9.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-E9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F1.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F1.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-F1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F1.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-F1.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F10.MAA000561.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-F10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-F11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F12.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F13.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-F13.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-F13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-F13.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-F14.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F14.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F14.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F15.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-F15.MAA000902.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F15.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-F15.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F17.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F17.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-F17.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-F17.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F18.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F18.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F19.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F19.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-F19.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-F19.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-F2.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-F2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F2.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-F2.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-F20.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F20.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-F20.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F20.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F21.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-F21.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-F21.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F21.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-F21.MAA000924.3_8_M.1.1,neuron,Brain_Non-Myeloid
-F21.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-F22.B003275.3_38_F.1.1,neuron,Brain_Non-Myeloid
-F22.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-F22.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F3.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-F3.B003277.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-F3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F3.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-F3.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-F3.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F3.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F4.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F4.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-F4.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F5.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F5.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F5.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-F6.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F6.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-F6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F6.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F6.MAA001854.3_38_F.1.1,neuron,Brain_Non-Myeloid
-F7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F7.MAA000638.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-F7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F7.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F7.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F7.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-F8.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-F8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-F8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-F9.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-G1.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G1.MAA000932.3_11_M.1.1,neuron,Brain_Non-Myeloid
-G1.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-G1.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-G10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G10.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G10.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-G10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G10.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-G11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G11.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-G12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G12.MAA000932.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
-G13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G13.MAA000578.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-G13.MAA000925.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-G13.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-G13.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-G13.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-G14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G14.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-G14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G14.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-G14.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-G15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G15.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-G15.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-G16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G16.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+O20.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+O1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
 G17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G17.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-G18.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-G18.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
-G18.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-G18.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-G19.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G19.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-G19.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G2.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-G2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G2.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-G2.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-G20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-G20.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G20.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-G20.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-G20.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-G21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G22.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-G22.MAA000947.3_9_M.1.1,neuron,Brain_Non-Myeloid
-G22.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-G3.MAA000925.3_9_M.1.1,neuron,Brain_Non-Myeloid
-G3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G3.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-G3.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G3.MAA001856.3_39_F.1.1,neuron,Brain_Non-Myeloid
-G4.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-G4.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G4.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-G4.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-G4.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-G4.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G5.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G5.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-G5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G5.MAA000935.3_8_M.1.1,neuron,Brain_Non-Myeloid
-G5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G6.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G7.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-G7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G8.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G8.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-G8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-G8.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-G9.B001688.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-G9.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-G9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-H1.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-H10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H10.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-H11.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-H11.MAA000538.3_8_M.1.1,neuron,Brain_Non-Myeloid
-H12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H12.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H12.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H12.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-H12.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-H13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H13.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H13.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H14.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-H14.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-H14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H14.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-H14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-H14.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-H15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-H15.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H15.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-H16.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H16.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-H16.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-H16.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H16.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-H16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-H16.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H17.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-H17.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-H17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H18.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-H18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-H18.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-H19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-H19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H19.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H19.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-H2.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-H2.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H20.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
-H20.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-H20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H20.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-H20.MAA000928.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H20.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-H21.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H21.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-H21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H21.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-H21.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-H21.MAA001854.3_38_F.1.1,neuron,Brain_Non-Myeloid
-H22.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-H3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-H3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-H3.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
-H3.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-H4.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-H4.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H5.MAA000550.3_10_M.1.1,neuron,Brain_Non-Myeloid
-H5.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-H5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-H6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-H6.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-H7.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H8.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-H9.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-H9.B003277.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-H9.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-H9.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-H9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-H9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+N14.MAA000928.3_9_M.1.1,neuron,Brain_Non-Myeloid
+G1.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+N1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
 H9.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I1.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-I10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I11.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-I11.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I11.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I12.B003277.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-I12.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I13.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-I14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-I14.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-I15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I15.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-I15.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-I15.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-I16.B000621.3_56_F.1.1,neuron,Brain_Non-Myeloid
-I16.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-I16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I16.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-I17.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-I18.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I18.MAA000924.3_8_M.1.1,neuron,Brain_Non-Myeloid
-I18.MAA000925.3_9_M.1.1,neuron,Brain_Non-Myeloid
-I18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-I19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-I19.MAA000902.3_11_M.1.1,neuron,Brain_Non-Myeloid
-I19.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I19.MAA000924.3_8_M.1.1,neuron,Brain_Non-Myeloid
-I2.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-I2.MAA000932.3_11_M.1.1,neuron,Brain_Non-Myeloid
-I2.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
-I2.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-I20.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-I20.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I20.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-I21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I21.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I22.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-I22.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I22.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I22.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-I3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-I3.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-I3.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I4.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-I4.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I4.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-I4.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-I5.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-I5.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I5.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-I7.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-I7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-I8.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-I8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-I8.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-I8.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I9.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-I9.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-I9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-I9.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-I9.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J1.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-J1.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J10.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J10.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-J10.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-J11.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J11.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J12.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-J12.MAA000641.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J12.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-J13.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J13.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-J13.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J14.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J14.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-J14.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-J14.MAA000947.3_9_M.1.1,neuron,Brain_Non-Myeloid
-J15.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-J15.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J16.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-J16.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J16.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-J16.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-J17.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J17.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J18.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J18.MAA000932.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
-J19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-J19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J2.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-J20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J20.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J20.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J21.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-J22.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-J22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J22.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J22.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-J3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J3.MAA000925.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J3.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J3.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-J3.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-J4.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J5.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J5.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-J5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J5.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-J5.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-J5.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-J6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J6.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-J6.MAA000947.3_9_M.1.1,neuron,Brain_Non-Myeloid
-J6.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-J7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J7.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-J8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-J8.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-J8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-J9.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-J9.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
-J9.MAA000902.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
-J9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K1.MAA000550.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K1.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K1.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-K1.MAA001894.3_39_F.1.1,neuron,Brain_Non-Myeloid
-K10.B003277.3_39_F.1.1,neuron,Brain_Non-Myeloid
-K10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K11.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-K11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K11.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-K12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K12.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-K12.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-K12.MAA000935.3_8_M.1.1,neuron,Brain_Non-Myeloid
-K12.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-K13.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K13.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-K13.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-K13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-K13.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-K14.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K14.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-K15.B001688.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
-K15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K15.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-K16.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-K16.MAA000930.3_8_M.1.1,neuron,Brain_Non-Myeloid
-K16.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K17.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-K17.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-K17.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-K18.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-K18.B003277.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-K18.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-K18.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-K18.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-K19.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-K19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K2.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K20.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-K21.B000621.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-K21.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-K21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K21.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-K21.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-K22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K22.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K22.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-K22.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K22.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-K3.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-K3.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K3.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K4.B003277.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-K4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K4.MAA000940.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-K4.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K6.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K6.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-K6.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-K6.MAA000924.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-K6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K6.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-K7.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-K7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K7.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+C17.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B7.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P4.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+P11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+F7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
 K7.MAA000947.3_9_M.1.1,neuron,Brain_Non-Myeloid
-K8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-K8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-K9.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-K9.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L1.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-L10.B001688.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-L10.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L10.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-L11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L11.MAA000615.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L11.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L11.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-L12.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-L12.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L12.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L12.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-L13.MAA000615.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L13.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-L13.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L13.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-L13.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-L13.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-L14.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-L14.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L14.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L16.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L17.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L17.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L17.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L17.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L17.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-L18.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-L18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L18.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L19.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L2.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L2.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L2.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-L20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L20.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L21.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L21.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L21.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-L21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L22.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-L22.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-L22.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-L3.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-L4.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-L4.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-L4.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L5.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-L5.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L5.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L5.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L7.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-L7.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-L7.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L7.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-L7.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-L8.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-L8.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L8.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-L9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-L9.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-M1.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M1.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-M1.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-M10.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M10.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-M10.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-M11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M11.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+B10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+C22.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+N18.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+K12.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
+H20.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+C2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P3.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+H16.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F6.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
 M11.MAA001854.3_38_F.1.1,neuron,Brain_Non-Myeloid
-M11.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-M12.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-M13.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-M13.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M13.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-M13.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M13.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-M14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M14.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-M14.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-M14.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-M15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M15.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-M15.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M15.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-M16.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M16.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M16.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M16.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M16.MAA000932.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
-M16.MAA000935.3_8_M.1.1,neuron,Brain_Non-Myeloid
-M16.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-M17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M17.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-M17.MAA001894.3_39_F.1.1,neuron,Brain_Non-Myeloid
-M18.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-M18.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-M18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-M18.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-M18.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-M19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
 M19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M19.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-M19.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
-M19.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-M2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-M2.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-M20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M20.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-M20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M20.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+F9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K14.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+M14.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+A14.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+L22.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+E15.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+B22.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+D18.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+A2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+B8.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
 M21.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M21.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-M21.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M21.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-M22.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-M22.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-M22.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-M4.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-M4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-M4.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-M5.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-M5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K20.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+M17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+M1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D7.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+A15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+N20.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+A17.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C22.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O1.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+E1.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+C15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+H18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+I9.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+O9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+E8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+N9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+D10.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P5.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+B19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+K3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+A10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K17.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+B10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+O13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+K8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+E11.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+P5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+P3.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O17.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+D11.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G17.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
+P22.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+D18.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P15.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
 M6.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M6.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-M6.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-M6.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-M7.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+N18.MAA000928.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+E7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J21.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
+M21.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D11.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+D22.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G16.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+C3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+F12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
 M8.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-M8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-M8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K16.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+A22.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+M11.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+P3.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+L10.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+H8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+K9.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+G4.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
+H20.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+K3.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+B2.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+F3.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+A21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+E11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+B21.MAA000560.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D17.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+C20.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+G11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+N21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+K10.B003277.3_39_F.1.1,neuron,Brain_Non-Myeloid
+N8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J5.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+I4.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+E9.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+A2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+M16.MAA000935.3_8_M.1.1,neuron,Brain_Non-Myeloid
+F18.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+N10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L20.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+O11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+E15.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B19.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+L4.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+M15.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+K21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+F7.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+P20.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+B5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D16.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+J13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+C11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D6.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+C13.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+P4.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+G2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+L1.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+O7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+A16.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+E8.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+G19.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+F22.B003275.3_38_F.1.1,neuron,Brain_Non-Myeloid
+D20.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
+B20.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+P1.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+K18.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+M13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O16.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+G5.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+K12.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+J18.MAA000932.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
+G15.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+L12.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+A15.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+F7.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J13.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+A12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+H14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K1.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+H9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+I11.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+K22.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+I11.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+K12.MAA000935.3_8_M.1.1,neuron,Brain_Non-Myeloid
+E13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+M15.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F17.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+C16.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+J9.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
+K2.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+B8.MAA001854.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D2.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+I15.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
+P9.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+C15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J6.MAA000947.3_9_M.1.1,neuron,Brain_Non-Myeloid
+I2.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+F5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+C12.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+I16.B000621.3_56_F.1.1,neuron,Brain_Non-Myeloid
+A18.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+B20.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+F3.B003277.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+L20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E16.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+H16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+G10.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+E20.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+A9.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+M4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+N6.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
+O6.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+C6.MAA000932.3_11_M.1.1,neuron,Brain_Non-Myeloid
+H12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O19.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+A15.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+K2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+C9.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+K18.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+O19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+E4.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+K11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+H17.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+F15.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+K6.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F20.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+I18.MAA000924.3_8_M.1.1,neuron,Brain_Non-Myeloid
+C22.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+N11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E4.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+L13.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+N13.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+B11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+L11.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+I12.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E15.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+L17.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+H5.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+G2.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+N2.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+C17.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K19.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+L12.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+F17.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+A1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D13.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B15.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F21.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+D10.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
+O11.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+A20.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+O17.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O21.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+E3.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+F7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P19.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+C6.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+C21.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D6.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+G3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D9.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+A8.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+D4.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+E20.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+F4.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+A12.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B20.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+G3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+H18.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+F10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+A18.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+I14.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
+K3.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+C3.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+E1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+I17.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+J22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+F17.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+C14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+A1.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+G18.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
+H3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+I20.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+G4.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+K22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+A22.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+B12.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+A16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+A9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+O16.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+G4.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+F12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+L18.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+N8.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
+P10.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+B14.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+H18.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+G14.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
+G19.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
 M8.MAA000940.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
 M8.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-M9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N10.B001688.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-N10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N10.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-N10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N11.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
-N11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N12.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N12.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N12.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-N13.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-N13.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N13.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N13.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-N13.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-N14.MAA000928.3_9_M.1.1,neuron,Brain_Non-Myeloid
-N14.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-N15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N15.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-N15.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N16.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-N17.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N17.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N18.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N18.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N18.MAA000928.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-N19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N19.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-N2.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N2.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N20.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-N20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N20.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N20.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-N21.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N21.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N22.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N22.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-N22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N22.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N22.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-N22.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-N22.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-N3.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-N3.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-N4.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N4.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-N5.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N5.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-N5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N6.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-N6.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
-N6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N7.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
-N7.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-N8.B000621.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-N8.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-N8.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
-N8.MAA000928.3_9_M.1.1,neuron,Brain_Non-Myeloid
-N8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-N8.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-N9.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-N9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O1.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O1.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O1.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-O10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O11.MAA000935.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-O12.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-O13.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-O13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-O13.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-O14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O14.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-O14.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-O15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O15.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-O15.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O15.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O15.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-O16.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O16.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O16.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O16.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-O16.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-O17.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O17.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O17.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O17.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O17.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-O18.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O18.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O18.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-O19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O19.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O19.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-O2.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O2.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O20.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+B3.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+H5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+B1.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+A9.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D11.MAA000638.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+E13.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+J18.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+E5.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
+C5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+H21.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C12.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
 O20.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-O20.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-O20.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-O21.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-O21.MAA000550.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O21.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O22.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O22.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-O22.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-O3.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O4.B000404.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-O4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O5.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-O6.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-O6.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-O6.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-O6.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-O7.B001688.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
-O7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O8.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O9.MAA000560.3_10_M.1.1,neuron,Brain_Non-Myeloid
-O9.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-O9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-O9.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P1.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P1.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P1.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-P10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P10.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
-P11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P12.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P12.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-P13.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-P14.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
-P14.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-P15.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P15.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-P15.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-P15.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-P16.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P17.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P17.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-P17.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P18.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-P19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P19.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
-P19.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-P19.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-P19.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-P2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P20.B000621.3_56_F.1.1,endothelial cell,Brain_Non-Myeloid
-P20.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
-P20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P20.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
-P20.MAA000578.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P20.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P20.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P20.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-P21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P21.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-P21.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
-P21.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
-P22.B000621.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
-P22.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P22.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P22.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-P3.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P3.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P3.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-P4.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P4.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P4.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P4.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-P5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
-P5.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-P5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P5.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
-P5.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
-P6.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P6.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P6.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
-P6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P6.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-P7.B000404.3_56_F.1.1,neuron,Brain_Non-Myeloid
-P7.MAA000563.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
-P7.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P7.MAA000925.3_9_M.1.1,neuron,Brain_Non-Myeloid
-P7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P7.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+A21.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
 P8.B000404.3_56_F.1.1,neuron,Brain_Non-Myeloid
-P8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
-P8.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+F17.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J8.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+G22.MAA000947.3_9_M.1.1,neuron,Brain_Non-Myeloid
+M10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+M18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+I9.MAA000641.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+F1.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+A15.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+H12.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+C13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G13.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+M8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+C19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+M17.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+M16.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+L7.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+B12.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+K22.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+I22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+P22.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+H19.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
+K1.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G7.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+K4.MAA000940.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+O13.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+I20.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+H21.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+E12.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C21.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+A8.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D20.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+L2.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P20.MAA000578.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+O15.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+F14.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+J3.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+M14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E12.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+P7.MAA000563.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+J19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+O15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+A6.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+G15.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D22.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+C12.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+E14.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P7.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+J12.MAA000641.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+E6.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+N11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+A11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J4.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+P6.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+A11.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+O4.B000404.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+F19.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+A7.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J12.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+K7.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+N18.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+H15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+H5.MAA000550.3_10_M.1.1,neuron,Brain_Non-Myeloid
+B1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+A15.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+E18.MAA000638.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+B22.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+F14.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+P17.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+A13.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F1.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+N22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+J4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+F5.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+L13.MAA000615.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+M16.MAA000561.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+A11.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+H13.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+B6.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+A18.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+G13.MAA000578.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+L22.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+A7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P1.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+H16.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+L22.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+O14.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+P19.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+F15.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C3.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F6.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+N20.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+A7.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+K1.MAA000550.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+J3.MAA000925.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+G18.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+J20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+D7.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
+M4.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+F4.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+M10.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+J11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J2.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+C1.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+B7.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
 P8.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+E10.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+B8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D3.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+D4.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+A1.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+P2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+G5.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F3.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+D5.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L5.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+I14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+L18.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+B2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+L22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L11.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P20.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+P15.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F2.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+I21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+D14.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+D4.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+E10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+K10.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+C8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+J13.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+C8.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+J1.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+A10.MAA001853.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+C11.MAA000553.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+M18.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
 P8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P9.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
-P9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
-P9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+C22.MAA000944.3_9_M.1.1,neuron,Brain_Non-Myeloid
+B22.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+C5.B003290.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
+O3.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+D1.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+O2.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B11.MAA000941.3_8_M.1.1,neuron,Brain_Non-Myeloid
+C22.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+I5.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D9.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+D19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+I10.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+P15.MAA000942.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+L4.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+C20.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+F15.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+C9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+N6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+B9.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+B11.MAA000564.3_10_M.1.1,neuron,Brain_Non-Myeloid
+M19.MAA000941.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+B13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+I3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+G10.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+B20.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+M18.MAA000424.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+G2.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G11.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+B20.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+D16.MAA001853.3_38_F.1.1,neuron,Brain_Non-Myeloid
+N14.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+O14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O19.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D17.MAA001845.3_39_F.1.1,neuron,Brain_Non-Myeloid
+A12.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+O10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K14.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+F21.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+G13.MAA000926.3_9_M.1.1,neuron,Brain_Non-Myeloid
+L2.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+N6.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L7.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+A21.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+O19.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+A3.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+P5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+C7.B003277.3_39_F.1.1,neuron,Brain_Non-Myeloid
+B21.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+G9.MAA001894.3_39_F.1.1,astrocyte,Brain_Non-Myeloid
+G8.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+K17.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+G20.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+A13.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+D5.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+P20.B000621.3_56_F.1.1,endothelial cell,Brain_Non-Myeloid
+O15.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+L5.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+N12.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+F3.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F8.B003290.3_38_F.1.1,neuron,Brain_Non-Myeloid
+J15.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+H9.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+A14.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+F2.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+L5.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+F10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+L10.B001688.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
+I20.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
+O1.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+B22.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+K4.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+J12.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+P7.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+M15.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+N22.MAA000923.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+J14.MAA000942.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+H20.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+H15.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+I9.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+A20.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+B22.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+E1.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+I13.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P20.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+N20.MAA000925.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B11.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+E17.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D12.MAA000561.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+M6.MAA001894.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+A13.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+D12.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+A5.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+J16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+N7.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+L18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+K11.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+D11.MAA000902.3_11_M.1.1,neuron,Brain_Non-Myeloid
+O21.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L16.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+E21.MAA000941.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+C16.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+B4.MAA001845.3_39_F.1.1,endothelial cell,Brain_Non-Myeloid
+A3.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+P19.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+L12.MAA000923.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+C15.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+N3.B003728.3_56_F.1.1,astrocyte,Brain_Non-Myeloid
+C13.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+A16.MAA000941.3_8_M.1.1,neuron,Brain_Non-Myeloid
+E6.MAA001895.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+G18.MAA000578.3_10_M.1.1,neuron,Brain_Non-Myeloid
+B3.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+B12.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+I18.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+K6.MAA000924.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+O13.MAA000947.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+G10.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+A13.MAA000944.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+D4.MAA000564.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+P6.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+E3.MAA000935.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+H14.MAA000615.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F11.MAA000564.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+B15.B003274.3_38_F.1.1,astrocyte,Brain_Non-Myeloid
+G12.MAA000932.3_11_M.1.1,astrocyte,Brain_Non-Myeloid
+A7.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+M5.MAA000926.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F18.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+N13.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B13.MAA000641.3_9_M.1.1,neuron,Brain_Non-Myeloid
+N2.MAA000560.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+J17.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+D10.MAA000560.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+F6.MAA000947.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+F15.MAA000930.3_8_M.1.1,endothelial cell,Brain_Non-Myeloid
+N7.MAA000638.3_9_M.1.1,neuron,Brain_Non-Myeloid
+K21.MAA000940.3_8_M.1.1,neuron,Brain_Non-Myeloid
+D6.MAA000942.3_8_M.1.1,neuron,Brain_Non-Myeloid
+A4.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+B12.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+H14.MAA000926.3_9_M.1.1,endothelial cell,Brain_Non-Myeloid
+C16.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+H16.MAA000581.3_10_M.1.1,neuron,Brain_Non-Myeloid
+F19.MAA000424.3_11_M.1.1,neuron,Brain_Non-Myeloid
+A22.B003275.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+H14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+K22.MAA000930.3_8_M.1.1,astrocyte,Brain_Non-Myeloid
+L2.MAA000563.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
+B11.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+E8.B003290.3_38_F.1.1,endothelial cell,Brain_Non-Myeloid
+N10.MAA000932.3_11_M.1.1,endothelial cell,Brain_Non-Myeloid
+F14.MAA000581.3_10_M.1.1,endothelial cell,Brain_Non-Myeloid
+L14.MAA000944.3_9_M.1.1,astrocyte,Brain_Non-Myeloid
+B7.MAA000615.3_10_M.1.1,astrocyte,Brain_Non-Myeloid
